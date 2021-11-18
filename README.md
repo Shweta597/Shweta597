@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shweta Shaw</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">I am enthusiastic about Web Technologies and always excited to work with new Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitashaw514&label=Profile%20views&color=0e75b6&style=flat" alt="ankitashaw514" /> </p>
 
-- 👯 I’m looking to collaborate on *projects of Web Development*
+- 👯 I’m looking to collaborate on *Real Life Projects*
 
 - 📫 How to reach me 
 - *shwetashaw597@gmail.com*
